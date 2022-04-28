@@ -76,7 +76,7 @@ main {
 }
 
 .subscribe-price {
-    color: var(--clr-grayish-blue);
+    color: white;
     display: flex;
     gap: 1rem;
     align-items: center;
